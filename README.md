@@ -45,7 +45,7 @@ src/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vanguyenwork/frontend-weather-app.git](https://github.com/PolitetechSoftware/Chloe_React)
+   git clone https://github.com/vanguyenwork/frontend-weather-app.git
    ```
 
 2. Install dependencies:
